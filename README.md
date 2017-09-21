@@ -1,7 +1,6 @@
 # Dictionary
 A data structure to store all words of dictionary 
 
-Example
 <pre><code>
 package dsalgo.dictionary;
 
